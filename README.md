@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project we combine Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) knowledge to build a deep learning model that produces captions given an input image.
+In this project we combine Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) to build a deep learning model that produces captions given an input image.
 
 One such example of how this architecture performs is pictured below:
 
