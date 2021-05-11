@@ -9,7 +9,7 @@ One such example of how this architecture performs is pictured below:
 <!-- ![Center Image](images/image-description.PNG) -->
 
 <p align="center">
-  <img src="images/image-description.PNG">
+  <img src="images/cnn_rnn_model.png">
 </p>
 
 ## Files
